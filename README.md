@@ -1,0 +1,2 @@
+# resistor
+simple resistor calculator
